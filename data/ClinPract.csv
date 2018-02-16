@@ -1,0 +1,10 @@
+﻿admin.batch_number,379.33.0,379.33.0,47.96.0
+admin.file_uuid,7a96ca78-3689-41a6-96f0-ef1ba139975b,b22b2496-05f9-45cb-b69e-5cf41d5da199,15bbda35-7af8-4340-86e7-c7b2c0ab1cf7
+admin.month_of_dcc_upload,1,1,1
+admin.patient_withdrawal.withdrawn,FALSE,FALSE,FALSE
+admin.project_code,tcga,tcga,tcga
+admin.year_of_dcc_upload,2016,2016,2016
+patient.age_at_initial_pathologic_diagnosis,55,50,57
+patient.anatomic_neoplasm_subdivisions.anatomic_neoplasm_subdivision,left lower outer quadrant,right upper outer quadrant,left
+patient.axillary_lymph_node_stage_method_type,sentinel lymph node biopsy plus axillary dissection,sentinel lymph node biopsy plus axillary dissection,sentinel lymph node biopsy plus axillary dissection
+patient.bcr_patient_barcode,tcga-3c-aaau,tcga-3c-aali,tcga-a7-a0ce
